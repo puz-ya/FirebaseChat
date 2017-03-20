@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FirebaseChat</string>
+
+    <string name="button_send">SEND</string>
+    <string name="edit_input">Text here</string>
+    <string name="menu_logout">LogOut</string>
 </resources>
